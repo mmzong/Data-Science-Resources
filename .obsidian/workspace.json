@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "822bef2b05cc2a66",
@@ -137,13 +137,21 @@
                 "file": "test note.md"
               }
             }
+          },
+          {
+            "id": "9c9c6e3c795aeb62",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 256
   },
   "left-ribbon": {
     "hiddenItems": {
