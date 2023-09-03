@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note.md",
+                "file": "New test note!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test note.md",
+                "file": "New test note!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test note.md",
+                "file": "New test note!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test note.md"
+                "file": "New test note!.md"
               }
             }
           },
@@ -156,7 +156,7 @@
   },
   "active": "d03d73440a1be729",
   "lastOpenFiles": [
-    "test note.md",
+    "New test note!.md",
     "Data-Science-Resources-Repository"
   ]
 }
