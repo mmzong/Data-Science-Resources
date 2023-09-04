@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StarFire.md",
+                "file": "Test note.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StarFire.md",
+                "file": "Test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StarFire.md",
+                "file": "Test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StarFire.md"
+                "file": "Test note.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "3d9a413c71393ca9",
   "lastOpenFiles": [
-    "Test note.md",
     "StarFire.md",
+    "Test note.md",
     "Data-Science-Resources-Repository"
   ]
 }
